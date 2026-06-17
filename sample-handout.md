@@ -1,8 +1,3 @@
-Hi,
-
-Welcome to the beginnings of Tufte LaTeX package to help you
-produce Tufte-style handouts, reports, and notes.
-
 ## Quick Start
 
 Try typesetting `sample-handout.tex` with the following sequence
