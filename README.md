@@ -1,4 +1,6 @@
-# Briefings in Bioinformatics, Oxford University Press, interdisziplinär als Teil der SIA Security Intelligence Artefact Research, The Yellow Whitepaper Series
+## Briefings in Bioinformatics, Oxford University Press, interdisziplinär als Teil der SIA Security Intelligence Artefact Research, The Yellow Whitepaper Series
+
+**Isabel Schöps (Thiel). (2026). isabelschoeps-thiel/Bioinformatics-Oxford-University-Press: Briefings in Bioinformatics, Oxford University Press by Isabel Schöps geb. Thiel (oxford-1.2)**. Zenodo, GitHub, Oxford University Press UK, ScholarOne and Manuscript Central are registered trademarks of ScholarOne,Inc. [https://doi.org/10.5281/zenodo.20738622](https://doi.org/10.5281/zenodo.20738622)
 
 Autorin: Frau Isabel Schöps, geborene Thiel
 
