@@ -2,6 +2,8 @@
 
 **Isabel Schöps (Thiel). (2026). isabelschoeps-thiel/Bioinformatics-Oxford-University-Press: Briefings in Bioinformatics, Oxford University Press by Isabel Schöps geb. Thiel (oxford-1.2)**. Zenodo, GitHub, Oxford University Press UK, ScholarOne and Manuscript Central are registered trademarks of ScholarOne,Inc. [https://doi.org/10.5281/zenodo.20738622](https://doi.org/10.5281/zenodo.20738622)
 
+[https://de.scribd.com/document/1054881530/SIA-Security-Intelligence-Bioinformatic-by-Isabel-Schops-geb-Thiel](https://de.scribd.com/document/1054881530/SIA-Security-Intelligence-Bioinformatic-by-Isabel-Schops-geb-Thiel)
+
 Autorin: Frau Isabel Schöps, geborene Thiel
 
 Aktueller Bearbeitungsstand: Mittwoch, 17. Juni 2026
